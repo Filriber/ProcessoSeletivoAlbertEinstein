@@ -1,0 +1,4 @@
+Flask
+flask-limiter
+werkzeug
+python-dotenv
